@@ -87,7 +87,7 @@ A detailed architecture diagram is available in the repository as `architecture.
 ## Flask Application
 The Flask web application is hosted on EC2 instances using a simple Python-based server (`app.py`). The code is pulled automatically from the GitHub repository during EC2 initialization.
 
-**Placeholder for Flask app output screenshot:**
+**Flask app output screenshot:**
 > ![Flask App Screenshot](Screenshots/flask-Output.png)
 
 ---
@@ -108,6 +108,6 @@ terraform destroy -auto-approve
 
 ---
 
-**Author:** Krishna Muthukumar  
-**Purpose:** Cloud & DevOps Portfolio Project — 3-Tier AWS Architecture using Terraform
+**Author:** Jothi Krishna M 
+**Purpose:** CloudOps & DevOps Portfolio Project — 3-Tier AWS Architecture using Terraform
 
