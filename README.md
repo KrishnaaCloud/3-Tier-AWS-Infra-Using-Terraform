@@ -88,7 +88,7 @@ A detailed architecture diagram is available in the repository as `architecture.
 The Flask web application is hosted on EC2 instances using a simple Python-based server (`app.py`). The code is pulled automatically from the GitHub repository during EC2 initialization.
 
 **Placeholder for Flask app output screenshot:**
-> ![Flask App Screenshot](screenshots/flask-Output.png)
+> ![Flask App Screenshot](Screenshots/flask-Output.png)
 
 ---
 
