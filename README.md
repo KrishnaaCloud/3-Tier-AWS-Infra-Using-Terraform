@@ -108,6 +108,7 @@ terraform destroy -auto-approve
 
 ---
 
-**Author:** Jothi Krishna M 
+**Author:** Jothi Krishna M
+
 **Purpose:** CloudOps & DevOps Portfolio Project — 3-Tier AWS Architecture using Terraform
 
